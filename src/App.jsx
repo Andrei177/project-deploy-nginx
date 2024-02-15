@@ -1,5 +1,5 @@
-import { BrowserRouter } from "react-router-dom"
-import AppRouter from "./routing/AppRouter"
+import { BrowserRouter } from 'react-router-dom'
+import AppRouter from './routing/AppRouter'
 import { QueryClientProvider, QueryClient } from '@tanstack/react-query'
 //'https://jsonplaceholder.typicode.com/todos'
 
